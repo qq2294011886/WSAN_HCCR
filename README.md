@@ -1,5 +1,6 @@
 # Writing Style Adversarial Network for Handwritten Chinese Character Recognition
 ![](https://img.shields.io/badge/python-3.5%7C3.6%7C3.7-blue.svg) ![](https://img.shields.io/badge/tensorflow-1.10.0-orange.svg) ![](https://img.shields.io/badge/keras-2.2.4-yellow.svg) ![](https://img.shields.io/badge/license-LGPL%203.0-green.svg)
+![](img.png)
 ## Requisites
 We assume you have already installed and configured Keras with any of its backends. Install the other required dependencies with:
 ```
