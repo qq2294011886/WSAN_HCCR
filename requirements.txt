@@ -3,5 +3,5 @@ numpy
 Pillow
 scikit-image
 scipy
-tensorflow-gpu==1.10.0
+tensorflow-gpu==2.5.1
 keras==2.2.4
